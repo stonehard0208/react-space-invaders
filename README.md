@@ -1,4 +1,6 @@
 # Space invaders
+# Visit my game
+https://accessible-quicksand.surge.sh/
 # Control
 ## Use mouse to control the player block
  ```js
